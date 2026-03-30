@@ -67,17 +67,17 @@ curl -sL https://deb.nodesource.com/setup_20.x | bash -
 ## Getting started
 ### Clone the repo:
 ```bash
-git clone https://github.com/upilkecebong/sinvent-ukk.git
+git clone https://github.com/akmsy/sinvent.git
 ```
 
 ### Change Owner
 ```bash
-chown www-data:www-data -R sinvent-ukk/
+chown www-data:www-data -R sinvent/
 ```
 
 ### Change storage sermission 
 ```bash
-cd sinvent-ukk/
+cd sinvent/
 ```
 ```bash
 chmod 775 -R storage/
